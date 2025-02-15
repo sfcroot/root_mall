@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>내 E북 스토어</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>내 E북 스토어</h1>
+        <p>좋은 책을 쉽게 구매하세요!</p>
+    </header>
+    <section>
+        <h2>이달의 추천 E북</h2>
+        <p>🔥 최신 트렌드를 반영한 최고의 E북을 만나보세요.</p>
+        <a href="ebook.pdf" download>📥 E북 다운로드</a>
+    </section>
+</body>
+</html>
